@@ -1,5 +1,5 @@
 .body{
-    background-color: gray;
+    background-color: black;
 }
 
 
@@ -10,6 +10,7 @@ display: flex;
 
 align-items: center;
 justify-content: center;
+object-fit: cover;
 }
 
 .colum{
@@ -35,13 +36,14 @@ justify-content: center;
     justify-content: flex-end;
     display: flex;
     flex-direction: column;
-    margin-left: 1230px;
+    margin-left: 1250px;
     
 }
 
 .titulo2{
     text-align: center;
-    margin-top: -350px;
+    margin-top: -450px;
     width: 1500px;
     height: -800px;
+    
 }
