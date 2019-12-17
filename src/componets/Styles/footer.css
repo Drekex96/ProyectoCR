@@ -1,0 +1,48 @@
+.footer{
+   background-color: rgba(5, 0, 0, 0.808);
+   width: 1500px;
+   height: 280px;
+
+}
+
+.row{
+   margin-top: 15px;
+   margin-left: 30px;
+   color:rgb(206, 206, 206);
+   font-size: 10px;
+   
+}
+
+.colum1{
+   font-size: 18px;
+   color:rgb(206, 206, 206); 
+   margin-top: 1px;
+   
+   
+}
+
+.colum2{
+   font-size: 18px;
+   color: rgb(206, 206, 206);
+   margin-top: 1px;
+
+}
+
+.colum3{
+   margin-left: 10px;
+   font-size: 18px;
+   color: rgb(206, 206, 206);
+   
+   
+}
+
+.FinalDeFooter{
+  color: aqua;
+}
+
+.Subtema{
+   text-align: center;
+   color: rgb(206, 206, 206);
+}
+
+
