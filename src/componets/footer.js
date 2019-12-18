@@ -6,7 +6,7 @@ class footer extends Component{
         return( 
         
           <div className="footer">
-            <h2 className="Subtema" >Estes es un servicio de tranporte rapido, efectivo y economico</h2>
+            <h2 className="Subtema" font-family="cursive" >Este es un servicio de tranporte rapido, efectivo y economico</h2>
                      
             <div>
             <footer class="page-footer font-small pt-4">

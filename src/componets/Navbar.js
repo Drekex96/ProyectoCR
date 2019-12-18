@@ -10,7 +10,7 @@ class Navbar extends Component {
     Registro
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="dropdown-item" href="#">Usuarios</a>
+    <a class="dropdown-item" href="/componets/Usuarios.js">Usuarios</a>
     <a class="dropdown-item" href="#">Conductores</a>
 
   </div>

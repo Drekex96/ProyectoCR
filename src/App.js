@@ -10,16 +10,12 @@ import Carrusel from "./componets/Carrusel";
 import Footer from "./componets/footer";
 
 
-
-
-
 class App extends Component {
   render(){
     return(
       <div>
         <Navbar />
       <div className="container">
-        <Usuarios />
       </div>
       <Carrusel />
       <div>

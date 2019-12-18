@@ -41,9 +41,12 @@ object-fit: cover;
 }
 
 .titulo2{
-    text-align: center;
+    text-align: right;
     margin-top: -450px;
-    width: 1500px;
-    height: -800px;
-    
+    width: 1200px;
+    height: -600px;
+    border: black 2px;
+    background-color: gray;
+    font-family: cursive;
 }
+
